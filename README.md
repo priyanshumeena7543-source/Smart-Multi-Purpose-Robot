@@ -1,10 +1,10 @@
-# 🤖 Multi-Functional Arduino Robot
+#  Multi-Functional Arduino Robot
 
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+
 
 **A versatile, multi-mode robot controlled by Arduino Uno — combining automation, wireless control, and voice interaction.**
 
